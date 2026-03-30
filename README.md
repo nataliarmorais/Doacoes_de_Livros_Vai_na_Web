@@ -1,8 +1,38 @@
-# React + Vite
+# 📚 Plataforma de Doação de Livros
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação web desenvolvida com React para facilitar a doação e organização de livros.
 
-Currently, two official plugins are available:
+🔗 https://doacoes-de-livros-vai-na-web.vercel.app/inicio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🚀 Funcionalidades
+
+* Cadastro de livros para doação
+* Listagem de livros disponíveis
+* Interface interativa com React
+* Navegação entre páginas
+
+---
+
+## 🛠 Tecnologias
+
+* React
+* Vite
+* JavaScript
+* SCSS
+
+---
+
+## 📌 Sobre o projeto
+
+Projeto desenvolvido durante formação na Escola Vai na Web, com foco em construção de aplicações web modernas utilizando React.
+
+---
+
+## ▶️ Como executar
+
+```bash
+npm install
+npm run dev
+```
