@@ -4,12 +4,27 @@ Plataforma web para doação e troca de livros, conectando pessoas que desejam d
 
 ---
 
-## 🚀 Funcionalidades
+## 🚀 Demonstração
 
-- Cadastro de livros
-- Listagem de livros disponíveis
-- Sistema de doação
-- Interface simples e intuitiva
+🔗 https://doacoes-de-livros-vai-na-web.vercel.app/inicio
+
+---
+
+## 💡 Problema
+
+Muitas pessoas têm livros parados em casa enquanto outras não têm acesso fácil a eles.  
+Não existe uma forma simples e acessível de conectar doadores e interessados.
+
+---
+
+## ✅ Solução
+
+Este projeto propõe uma plataforma onde usuários podem:
+
+- Cadastrar livros para doação  
+- Visualizar livros disponíveis  
+- Solicitar livros de forma simples  
+- Incentivar o reaproveitamento e acesso à leitura  
 
 ---
 
@@ -24,16 +39,8 @@ Plataforma web para doação e troca de livros, conectando pessoas que desejam d
 
 ## 📸 Preview
 
-![preview](./preview.png)
+<img src="./preview.png" alt="Preview do sistema" width="100%">
 
 ---
 
-## 🌐 Acesse o projeto
-
-🔗 https://doacoes-de-livros-vai-na-web.vercel.app/inicio
-
----
-
-## 💡 Objetivo
-
-Criar uma solução digital para incentivar a reutilização de livros e facilitar o acesso à leitura.
+## 📦 Estrutura do Projeto
