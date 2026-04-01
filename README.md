@@ -1,38 +1,39 @@
-# 📚 Plataforma de Doação de Livros
+# 📚 Book Donation Platform
 
-Aplicação web desenvolvida com React para facilitar a doação e organização de livros.
-
-🔗 https://doacoes-de-livros-vai-na-web.vercel.app/inicio
+Plataforma web para doação e troca de livros, conectando pessoas que desejam doar com quem precisa.
 
 ---
 
 ## 🚀 Funcionalidades
 
-* Cadastro de livros para doação
-* Listagem de livros disponíveis
-* Interface interativa com React
-* Navegação entre páginas
+- Cadastro de livros
+- Listagem de livros disponíveis
+- Sistema de doação
+- Interface simples e intuitiva
 
 ---
 
-## 🛠 Tecnologias
+## 🛠️ Tecnologias
 
-* React
-* Vite
-* JavaScript
-* SCSS
-
----
-
-## 📌 Sobre o projeto
-
-Projeto desenvolvido durante formação na Escola Vai na Web, com foco em construção de aplicações web modernas utilizando React.
+- React
+- Vite
+- JavaScript
+- SCSS
 
 ---
 
-## ▶️ Como executar
+## 📸 Preview
 
-```bash
-npm install
-npm run dev
-```
+![preview](./preview.png)
+
+---
+
+## 🌐 Acesse o projeto
+
+🔗 https://doacoes-de-livros-vai-na-web.vercel.app/inicio
+
+---
+
+## 💡 Objetivo
+
+Criar uma solução digital para incentivar a reutilização de livros e facilitar o acesso à leitura.
